@@ -1,0 +1,13 @@
+{
+  "base_url": "https://ukraina-invicta.netlify.app/",
+  "site_title": "Ukraina Invicta",
+  "site_description": "Ukraina Invicta",
+  "site_keywords": [
+    {"keyword": "Ukraine"},
+    {"keyword": "Charity"},
+    {"keyword": "Aid"}
+  ],
+  "posts_per_page": 5,
+  "twitter_account": "@my-account",
+  "github_account": "msonnemans"
+}
