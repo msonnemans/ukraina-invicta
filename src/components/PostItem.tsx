@@ -10,7 +10,6 @@ export default function PostItem({ post }: Props) {
   return (
     <Link href={"/missions/" + post.slug}>
       <a>
-        <Date date={parseISO(post.date)} />
         <h2>{post.title}</h2>
         <style jsx>
           {`
