@@ -40,7 +40,7 @@ export default function Index({ posts }: Props) {
 							</ul>
 						</div>
 						<div className="image">
-							<img src="images/ui.png" alt="" />
+							<img src="images/main.png" alt="" />
 						</div>
 					</section>
 
@@ -82,7 +82,7 @@ export default function Index({ posts }: Props) {
 							</ul> */}
 						</div>
 						<div className="image">
-							<img src="images/uibreakfast.jpg" alt="" />
+							<img src="images/second.png" alt="" />
 						</div>
 					</section>
 
