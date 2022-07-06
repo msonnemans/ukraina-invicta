@@ -8,7 +8,6 @@ import config from "../lib/config";
 import { countPosts, listPostContent, PostContent } from "../lib/posts";
 import { listTags, TagContent } from "../lib/tags";
 import { useEffect } from 'react'
-import $ from 'jquery'
 import run from '../main'
 
 type Props = {
@@ -114,7 +113,7 @@ export default function Index({ posts }: Props) {
 					<section className="wrapper style1 align-center" id="donations">
 						<div className="inner">
 							<h2>How you can help</h2>
-							
+							<a href="https://buy.stripe.com/cN29Dn1Z88QdgBaaEF">Donate</a>
 						</div>
 					</section>	
 					{/* <section className="wrapper style1 align-center" >
