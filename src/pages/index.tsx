@@ -112,12 +112,10 @@ export default function Index({ posts }: Props) {
 
 					<section className="wrapper style1 align-center" id="donations">
 						<div className="inner">
-							<h2>General Donation</h2>
-							<a href="https://buy.stripe.com/14k02N7js2rP3Oo28b">Donate</a>
-						</div>
-						<div className="inner">
-							<h2>Adopt a family</h2>
-							<a href="https://buy.stripe.com/9AQ8zj33cc2pbgQ5kk">Adopt</a>
+							<h2>Donations</h2>
+							<a style={{display: 'block'}} href="https://buy.stripe.com/14k02N7js2rP3Oo28b">General Donation</a>
+							<a style={{display: 'block'}} href="https://buy.stripe.com/aEUcPz33c2rPgBa28c">Support a family</a>
+							<a style={{display: 'block'}} href="https://buy.stripe.com/fZe2aVgU25E11Gg6ot">Sponsor a family</a>
 						</div>
 					</section>	
 					{/* <section className="wrapper style1 align-center" >
